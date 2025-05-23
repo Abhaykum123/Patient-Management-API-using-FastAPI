@@ -114,7 +114,7 @@ Add authentication and user management
 ## 💡 Author
 ### Abhay Kumar
 
-Let's connect on LinkedIn (update with your link)
-Check out more of my work on GitHub (update with your username)
+ Let's connect on [LinkedIn](https://www.linkedin.com/in/abhay-kumar-aa1a9129a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiN9yMzITTT%2Bw7fOOwaUDpQ%3D%3D)<br>
+Check out more of my work on [GitHub](https://github.com/Abhaykum123)
 
 
