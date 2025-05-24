@@ -94,7 +94,10 @@ POST /create
 The response includes the calculated bmi and verdict.
 
 ---
+## All Feature in FastAPI
+![Screenshot 2025-05-25 005520](https://github.com/user-attachments/assets/84db17e9-cc02-4d1f-a4e9-cd48bc9ab548)
 
+---
 ## 📖 Future Improvements
 <li>
 Integration with a real database (e.g., SQLite, PostgreSQL)
